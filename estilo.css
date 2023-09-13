@@ -1,0 +1,9 @@
+:root{
+--cor-da-letra:#140f1483; 
+--outra-cor:#e71313;
+--cor-do-titulo:dark blue; 
+--cor-de-fundo:white;
+}
+body{var(--cor-de-fundo)
+
+}
